@@ -1,0 +1,5 @@
+com\mypages\facebook\HomePage.class
+com\properties\facebook\ConfigReader.class
+com\mypages\facebook\BasePage.class
+com\mypages\facebook\LoginPage.class
+com\mypages\facebook\Page.class
